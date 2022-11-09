@@ -1,0 +1,21 @@
+{
+  "name": "tea-theme",
+  "displayName": "tea theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "tea theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tea theme-color-theme.json"
+      }
+    ]
+  }
+}
